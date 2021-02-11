@@ -1,3 +1,6 @@
-from mypkg import number_functions as nf
+from mypkg import number_functions
+from mypkg import string_functions
 
-print(nf.iseven(10))
+
+print(number_functions.iseven(10))
+print(string_functions.countdigits('122abc'))
