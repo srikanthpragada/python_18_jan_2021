@@ -1,0 +1,14 @@
+Python
+C#
+Java
+C
+Java
+JavaScript
+TypeScript
+Python
+C++
+Php
+Ruby
+
+PL/SQL
+
