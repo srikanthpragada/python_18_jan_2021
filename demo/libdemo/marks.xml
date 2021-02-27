@@ -1,0 +1,26 @@
+<marks>
+    <student>
+        <rollno>1</rollno>
+        <marks>80</marks>
+    </student>
+    <student>
+        <rollno>3</rollno>
+        <marks>90</marks>
+    </student>
+    <student>
+        <rollno>4</rollno>
+        <marks>78</marks>
+    </student>
+    <student>
+        <rollno>2</rollno>
+        <marks>59</marks>
+    </student>
+    <student>
+        <rollno>5</rollno>
+        <marks>88</marks>
+    </student>
+     <student>
+        <rollno>1</rollno>
+        <marks>85</marks>
+    </student>
+</marks>
